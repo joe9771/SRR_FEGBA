@@ -4119,8 +4119,8 @@ Art by Atey[X]
 ## GatekeeperName  
 Gatekeeper[X]
 ## GatekeeperDesc  
-The guard who watches over the gates of[N] 
-Garreg Mach Monastery. A kind man.[N]
+Garreg Mach’s gatekeeper.[N]
+A kind man. "greetings professor"[N]
 Art by emkat[X]
 
 ## ShezMName  
